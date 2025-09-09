@@ -1,0 +1,11 @@
+---
+title: Bitbucket Pull Requests
+author: athenahealth
+authorUrl: https://careers.athenahealth.com/us/en/blogarticle/welcome-to-the-athenahealth-engineering-blog
+category: Source Control Mgmt
+description: View and manage Bitbucket pull requests for your repositories within Backstage.
+documentation: https://github.com/backstage/community-plugins/blob/main/workspaces/bitbucket-pull-requests/plugins/bitbucket-pull-requests/README.md
+iconUrl: /img/pull-request.png
+npmPackageName: '@backstage-community/plugin-bitbucket-pull-requests'
+addedDate: '2025-09-09'
+backstageUrl: https://github.com/backstage/community-plugins/tree/main/workspaces/bitbucket-pull-requests
